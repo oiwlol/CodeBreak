@@ -1,6 +1,6 @@
-# © 2024 CIPIX
+# © 2025 oiw
 # All rights reserved.
-# Tous droits réservés.
+# fucki nskid
 
 try:
     import colorama, json, subprocess, os, sys, datetime, requests, webbrowser, platform
